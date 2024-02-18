@@ -1,8 +1,8 @@
-# Magia Flow
+# Magia IP
 
 ## Brief
 
-Design flow integration and automation with Magia.
+IP libraries designed with Magia
 
 ## Project Roadmap
 
@@ -11,7 +11,7 @@ TBD
 ## Installation
 
 ```bash
-pip install magia-flow
+pip install magia-ip
 ```
 
 ## Examples
