@@ -47,7 +47,7 @@ cocotb-test = "*"
 pytest = "*"
 pytest-xdist = "*"
 pytest-github-report = "*"
-ruff = "~0.2.1"
+ruff = "==0.3.3"
 hdlConvertor-binary = "~2.3"
 
 [tool.poetry.urls]
